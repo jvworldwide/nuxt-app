@@ -1,8 +1,6 @@
 <template>
   <section class="container">
-    <div>
-     <h1>Nuxt App</h1>
-    </div>
+<nuxt-link to="/users">Users</nuxt-link>
   </section>
 </template>
 
